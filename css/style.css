@@ -1,0 +1,48 @@
+#tittle{
+    height: 70px;
+    width: 300px;
+    background-color: aqua;
+    
+    
+
+}
+#Rules{
+
+    background-color:rgb(149, 229, 169);
+    height: 280px;
+    width: 350px;
+    margin-top: 15px;
+}
+
+
+#random{
+    background-color: rgb(213, 113, 243);
+    height: 80px;
+    width: 400px;
+    margin-top: 15px;
+    
+
+}
+#WinOrLose{
+    background-color: rgb(44, 180, 169);
+    height: 120px;
+    width: 300px;
+    margin-bottom: 15px;
+
+
+}
+
+.Crystals{
+    
+
+    
+
+}
+
+#TotalScore{
+
+
+    height: 100px;
+    width: 500px;
+    background-color: aqua
+}
